@@ -1,0 +1,26 @@
+{
+  "code": 200,
+  "message": "请求成功",
+  "data": [
+    {
+      "title": "凉凉",
+      "url": "https://github.com/victor-fa/Stored-Picture/raw/master/music/%E5%87%89%E5%87%89.mp3"
+    },
+    {
+      "title": "信乐团 - 死了都要爱",
+      "url": "https://github.com/victor-fa/Stored-Picture/raw/master/music/%E4%BF%A1%E4%B9%90%E5%9B%A2%20-%20%E6%AD%BB%E4%BA%86%E9%83%BD%E8%A6%81%E7%88%B1.mp3"
+    },
+    {
+      "title": "演员",
+      "url": "https://github.com/victor-fa/Stored-Picture/raw/master/music/%E6%BC%94%E5%91%98.mp3"
+    },
+    {
+      "title": "说散就散",
+      "url": "https://github.com/victor-fa/Stored-Picture/raw/master/music/%E8%AF%B4%E6%95%A3%E5%B0%B1%E6%95%A3.mp3"
+    },
+    {
+      "title": "告白气球",
+      "url": "https://github.com/victor-fa/Stored-Picture/raw/master/music/%E5%91%8A%E7%99%BD%E6%B0%94%E7%90%83.mp3"
+    }
+  ]
+}
